@@ -1,0 +1,519 @@
+1000 1000 0.4 0.3 0.3 testrun.txt 9005970
+0 0.0 4.0 JW(k e;xD F-y ~%*yseG<
+1 1.0 3.0 OomQ   )% )Bf QHtb I-u
+2 2.0 4.0  8h  G cM6E?:k0A0ARnE 
+3 2.0 4.0 w2   Z C  `3  0 t"5a ;
+4 2.0 4.0  8h  G cM6E?:k0A0ARNE 
+5 3.0 5.0 J  ' Co  ?M ] =)a?3[ <
+6 3.0 5.0  8h  C cM6 ?:k0A0ARnE 
+7 3.0 5.0 `&\u C nqvy?* *9\p%[  
+8 4.0 5.0  8h  C cM6 ?:k0A0CRnD 
+9 4.0 6.0 J  ' Co  ?l ]  )a?3[ >
+10 4.0 6.0 J  ' Co  ?m ] =9i? [ <
+11 4.0 7.0 J  ' Co  ?l ] =9i? [ <
+12 5.0 7.0 J  ' Co  ?l ] =9i? [ <
+13 5.0 7.0 J  g Co  ?l ] =9i? [  
+14 5.0 7.0 J  ' Co0T?l ] =9i? { <
+15 6.0 8.0 J  ' Co  ?l y =9i? [ <
+16 6.0 8.0 J  ' Co  ?l=y =9i? [ <
+17 6.0 8.0 J  ' Co  /l y =9i?   <
+18 6.0 8.0 J  % Co  ?l y =9i?S[ <
+19 6.0 8.0 J  % Co  ?l y =9k?S[ <
+20 6.0 8.0 J  ' Co  ?l}y =9i? Y <
+21 7.0 8.0 J  ' Co  ?l}y y9i? [ 4
+22 7.0 9.0 J  ' CoP ?l y ?9m? 9 <
+23 7.0 9.0 J  ' Co  ?l}y =9k? Z 0
+24 7.0 9.0 J =' Co  ol}y =9I? [  
+25 7.0 9.0 J  ' Co  ol}y =9i [ ,
+26 8.0 9.0 J  ' Co  ?l}y =9o? { 0
+27 8.0 10.0 J  ' Co  ?lly =9k? Z 0
+28 8.0 10.0 J    Co  ol}y =9k? [#0
+29 8.0 10.0 J =' Co  olly 59I? {  
+30 8.0 10.0 J  & Co  ?lly =9k? J 0
+31 8.0 11.0 J =' Co  olly 59K? 9 <
+32 9.0 11.0 J =' Co  olly 59K? 9 <
+33 9.0 11.0 J =' Co  olly 59K? 9 8
+34 9.0 11.0 J =7 Co  olly  9K? 9 <
+35 9.0 11.0 J 5/ Co  olly 59M? 9 <
+36 9.0 12.0 J =% Co  olly 59C? 97<
+37 10.0 12.0 J =' Co  olly 59K?K9 0
+38 10.0 12.0 J ?' CoR olly 09J? 9 8
+39 10.0 12.0 J =' Co  olly 19{? 9G0
+40 10.0 12.0 J =$ Co  olly 59C? 978
+41 10.0 13.0 J =& Co  olly 59K?;970
+42 11.0 13.0 J =& Co  olly 19K; 970
+43 11.0 13.0 J ?' CoRtolly 09J? 9 0
+44 11.0 13.0 J =  Co  olly 09G? 9 0
+45 11.0 13.0 J ?  Co  olly 09G? 9 0
+46 11.0 13.0 J =f Co2 olly 19K; 970
+47 11.0 14.0 J =& Co2 olly 09K{ 970
+48 12.0 14.0 J =& Co2 olly 09K{ 970
+49 12.0 14.0 J =' CoRVolly 09J9 970
+50 12.0 14.0 JT=n Co0 olly 19I; 970
+51 12.0 14.0 J  f Co0&olly 09C; 970
+52 12.0 14.0 J =6 Co2 olly 09K{ 970
+53 12.0 15.0 J  n Co8"olly 09K; 970
+54 13.0 15.0 J4 n Co8"olly 09K; 970
+55 13.0 15.0 J4 n Co0 olly 09 ; 970
+56 13.0 15.0 J4 n Co8"olly 09K; 970
+57 13.0 15.0 J< n Co8"olly 09K; 970
+58 13.0 15.0 J4 n Co8"olly 09C; 970
+59 13.0 15.0 J  n Co8*olly 09C: 970
+60 13.0 16.0 J =n Co0 olly 09I0 970
+61 13.0 16.0 J =n Co0 olly 09I0+970
+62 14.0 16.0 J =n Co  olly 09I0+970
+63 14.0 16.0 J =n Co  olly 09I0/970
+64 14.0 16.0 J4hn Co0 olly 09I;[970
+65 14.0 16.0 JThn Co4 olly 09I;[970
+66 14.0 16.0 J =n Co  olly 09i0/970
+67 14.0 16.0 J 7n Co  olly 09i0/970
+68 14.0 16.0 J(=n Co  olly 09I0)970
+69 14.0 16.0 J =n Co  olly 09I0)970
+70 14.0 16.0 J =n Co;Dolly 09K0+970
+71 15.0 16.0 J8=n Co  olly 09C0)970
+72 15.0 16.0 JB)n Co  olly 09!0'970
+73 15.0 16.0 J8=n Co  olly 09I0#970
+74 15.0 16.0 JD$n Co  olly 09m0'970
+75 15.0 16.0 J 4n Co $olly 09i0 970
+76 15.0 16.0 J  n Co  olly 09I0 970
+77 15.0 16.0 J n CoU!olly 09I0(970
+78 15.0 16.0 JBIn Co0 olly 09a0d970
+79 15.0 17.0 JDhn Co nolly 09A;Q970
+80 15.0 17.0 J`-n Co nolly 09 0"970
+81 15.0 17.0 J`-n Co nolly 09 0"970
+82 15.0 17.0 J  n Co9nolly 09_0z970
+83 15.0 17.0 J^9n Co  olly 09k05970
+84 15.0 17.0 J`-n CoTnolly 09 0"970
+85 15.0 17.0 J@-n Co nolly 09 0"970
+86 15.0 17.0 J  n Co1nolly 09_0x970
+87 15.0 17.0 J )n Co\nolly 09 0b970
+88 15.0 17.0 JT-n Co nolly 09 0c970
+89 15.0 17.0 JF]n Co3nolly 09_0x970
+90 15.0 17.0 J`-n CoPnolly 09 0%970
+91 15.0 17.0 J@)n Co nolly 09U0b970
+92 15.0 17.0 J )n Co]nolly 09 0b970
+93 15.0 17.0 Jd(n Co nolly 09]0 970
+94 15.0 17.0 JB-n CoDnolly 09%0 970
+95 15.0 17.0 J! n Cotnolly 09 0 970
+96 15.0 17.0 J`!n Co4nolly 09-0"970
+97 15.0 17.0 JQmn Coznolly 0950#970
+98 15.0 17.0 J %n Co nolly 09|02970
+99 15.0 18.0 JC-n Co\nolly 0900 970
+100 15.0 18.0 JC%n Co\nolly 0900 970
+101 15.0 18.0 JS%n Co\nolly 0900 970
+102 15.0 18.0 JI/n Connolly 09-0 970
+103 16.0 18.0 JI/n Connolly 09-0 970
+104 15.0 18.0 JI/n Connolly 09-0 970
+105 15.0 18.0 JI/n Connolly 09 0 970
+106 16.0 18.0 J ?n Co nolly 09%05970
+107 16.0 18.0 J- n Co]nolly 09\05970
+108 16.0 18.0 JI n Connolly 09/0 970
+109 16.0 18.0 JM n Connolly 09+0 970
+110 16.0 18.0 JM n Connolly 09+0 970
+111 16.0 18.0 JI/n Connolly 09m0G970
+112 16.0 18.0 JMhn Co nolly 09E0 970
+113 16.0 19.0 JI n Connolly 09)05970
+114 16.0 19.0 JI n Connolly 09)05970
+115 16.0 19.0 J  n Connolly 09)05970
+116 16.0 19.0 JI n Connolly 09)05970
+117 16.0 18.0 J /n Connolly 09-0 970
+118 16.0 18.0 JI n Connolly 09)0E970
+119 16.0 18.0 JI?n Connolly 09(059?0
+120 16.0 18.0 JI)n  onnolly 09+05970
+121 16.0 19.0 Jo n Connolly 09o0_970
+122 16.0 18.0 JM n Conn#lly 09y05970
+123 16.0 18.0 JO n Connolly 09g0_970
+124 16.0 18.0 JO n Connolly 09o0 970
+125 16.0 19.0 Jo4n Connolly 09;0 970
+126 16.0 19.0 JY n Connolly 09z05970
+127 16.0 18.0 Jk n Connolly 09o0C970
+128 16.0 19.0 JY n Connolly 09z05970
+129 16.0 19.0 JY n Connolly 09Z05970
+130 16.0 19.0 JY n Connolly 09z05970
+131 16.0 19.0 Jy n Connolly 0)005970
+132 16.0 19.0 JS;n Connolly 09:05970
+133 16.0 19.0 JY;n Connolly 0)005970
+134 16.0 19.0 J ;n Connolly 0)005970
+135 17.0 20.0 Jy n Connolly 09005970
+136 17.0 20.0 Jy n Connolly 09005970
+137 17.0 20.0 Jy n Connolly 09005970
+138 17.0 20.0 Jy n Connolly 09005970
+139 17.0 20.0 Jy n Connolly 09005970
+140 17.0 20.0 Jy n Connolly 09005970
+141 17.0 20.0 Jy n Connolly 09005970
+142 17.0 20.0 Jy n Connolly 09005970
+143 17.0 20.0 J{ n Connolly 09005970
+144 17.0 20.0 Jx n Connolly 09005970
+145 17.0 20.0 J= n Connolly 09005970
+146 17.0 20.0 Jy8n Connolly 09005970
+147 17.0 20.0 Jyyn Connolly 09005970
+148 17.0 20.0 J) n Connolly 09005970
+149 17.0 20.0 Jyyn Connolly 09005970
+150 17.0 20.0 Jp8n Connolly 09005970
+151 17.0 20.0 Jjyn Connolly 09005970
+152 17.0 20.0 Jp=n Connolly 09005970
+153 17.0 20.0 Jyhn Connolly 09 05970
+154 17.0 20.0 Jhxn Connolly 09005970
+155 17.0 20.0 Jhxn Connolly 09005970
+156 17.0 21.0 J`hn Connolly 09005970
+157 17.0 20.0 Jx8n Connolly 09005970
+158 17.0 20.0 Ja n Connolly 09005970
+159 17.0 21.0 Jbhn Connolly 09005970
+160 17.0 20.0 Jbhn Connolly 29005970
+161 17.0 21.0 J<hn Connolly 09005970
+162 17.0 21.0 Jbhn Connolly 09005970
+163 17.0 21.0 Jbhn Connolly 09005970
+164 18.0 21.0 Jbhn Connolly 09005970
+165 18.0 21.0 Jchn Connolly 09005970
+166 18.0 21.0 Jbhn Connolly 09005970
+167 18.0 21.0 Jchn Connolly 09005970
+168 18.0 21.0 Jahn Connolly 09005970
+169 18.0 20.0 ZBhn Connolly 09005970
+170 18.0 21.0 JBhn Connolly 09005970
+171 18.0 20.0 J hn Connolly ;9005970
+172 18.0 20.0 J hn Connollq 09005970
+173 18.0 20.0 J hn Connolly ;9005970
+174 18.0 20.0 J3hn Connolly 0900597:
+175 18.0 21.0 JJhn Connolly 09005970
+176 18.0 20.0 Jkhn ConnolTy 09005970
+177 18.0 21.0 JJhn Connolly 09005970
+178 18.0 20.0 J hn connolly 09005970
+179 18.0 20.0 JJhn Connolly 09t05970
+180 17.0 20.0 Jchn Connolly 09005950
+181 18.0 21.0 John ConnolTy 09005970
+182 18.0 21.0 Jrhn Connolly 09005970
+183 18.0 20.0 JBhn Connolly :9005970
+184 18.0 21.0 John Connolty 09005970
+185 18.0 21.0 John Connolty 09005970
+186 18.0 21.0 John Connolty 09005970
+187 18.0 21.0 J hn Connolly 09005970
+188 18.0 20.0 Kohn Cnnolly 09005970
+189 18.0 21.0 John Connol|y 09005970
+190 18.0 21.0 John Connol|y 09005970
+191 18.0 20.0 kohn Connol|y 09005970
+192 18.0 20.0 JRhn Uonnolly 09005970
+193 18.0 20.0 J hn Uonnolly 09005970
+194 18.0 21.0 J hn Connolly 09005970
+195 18.0 21.0 J hn Connolly 09005970
+196 18.0 20.0 Bohn Congolly 09005970
+197 18.0 21.0 JDhn Connolly 09005970
+198 18.0 20.0 J hn Connolly 090 5970
+199 18.0 21.0 J hn Connolly 09005970
+200 18.0 21.0 J hn Connolly 09005970
+201 18.0 21.0 J hn Connolly 09005970
+202 18.0 21.0 John Connolly 0 005970
+203 18.0 21.0 John Connolly 0 005970
+204 18.0 20.0 John Confolly 0 005970
+205 18.0 21.0 J hn Connolly 09005970
+206 18.0 21.0 J hn Connolly 09005970
+207 18.0 21.0 J hn Connolly 09005970
+208 18.0 21.0 J hn Connolly 09005970
+209 18.0 21.0 J hn Connolly 09005970
+210 18.0 21.0 John Connolly 0 005970
+211 18.0 21.0 JZhn Connolly 09005970
+212 18.0 21.0 John Connolly 0 005970
+213 18.0 21.0 John Connolly 0 005970
+214 18.0 21.0 John Connolly 0 005970
+215 18.0 21.0 JZhn Connolly 09005970
+216 18.0 20.0 nohn Connolly 0 005970
+217 18.0 20.0 J3,n Connolly 09005970
+218 18.0 20.0 J (n Connolly 09005970
+219 18.0 20.0 John Connolly 0 p05970
+220 18.0 20.0 Jjhn Connolly 0900597t
+221 18.0 20.0 *ohn Connolly 0 005970
+222 18.0 20.0 Jjhn Connolly 0900597t
+223 18.0 20.0 John Connolly 0 005:70
+224 18.0 20.0 John Connolly 0 00;970
+225 18.0 20.0 nohn Connolly 0>005970
+226 18.0 20.0 John Connolly 0/00 970
+227 18.0 20.0 Jhhn Connolly 0900597u
+228 17.0 21.0 John Connolly 0 005970
+229 18.0 21.0 John Connolly 0 005970
+230 18.0 21.0 John Connolly 0 005970
+231 18.0 21.0 John Connolly 0 005970
+232 18.0 21.0 John Connolly 0G005970
+233 18.0 20.0 John Conno,ly 0 005970
+234 18.0 21.0 John Connolly 0900597v
+235 18.0 21.0 John Connolly 0F005970
+236 18.0 20.0 John Connklly 0F005970
+237 18.0 20.0  ohn Connolly 0900597r
+238 18.0 21.0 John Connolly 0 005970
+239 18.0 21.0 John Connolly 0O005970
+240 18.0 20.0 John Conno,ly 0G005970
+241 18.0 21.0 John Connolly 0O005970
+242 18.0 21.0 John Connolly 0O005970
+243 18.0 20.0 John Connolly 8 005970
+244 18.0 21.0 John Connolly 0O005970
+245 18.0 21.0 John Connolly 0_005970
+246 18.0 21.0 John Connolly 0K005970
+247 18.0 21.0 John Connolly 0O005970
+248 18.0 21.0 John Connolly 0o005970
+249 18.0 21.0 John Connolly 0o005970
+250 18.0 20.0 John Connolly v 005970
+251 18.0 20.0 John Connolly v 005970
+252 18.0 21.0 John Connolly 0N005970
+253 18.0 21.0 John Connolly 0n005970
+254 18.0 21.0 John Connolly 0M005970
+255 18.0 21.0 John Connolly 0M005970
+256 18.0 20.0 John Conno,ly 0O005970
+257 18.0 20.0 John Connolly 0m001970
+258 18.0 21.0 John Connolly 0N005970
+259 18.0 21.0 John Connolly 0N005970
+260 18.0 21.0 John Connolly 0N005970
+261 18.0 21.0 John Connolly 0N005970
+262 18.0 21.0 John Connolly 0N005970
+263 18.0 21.0 John Connolly 0N005970
+264 18.0 20.0 John Connolly 0Y105970
+265 18.0 20.0 Jmhn Connolly 0H005970
+266 18.0 20.0 John Con.olly 0n005970
+267 18.0 20.0 John Conjolly 0G005970
+268 18.0 20.0 John Connolly 0.005 70
+269 18.0 20.0 John Connolly 0t00597 
+270 18.0 20.0 John C_nnolly 0H005970
+271 18.0 21.0 John Connolly 0 005970
+272 18.0 20.0  ohn Connolly 0 005970
+273 17.0 20.0 John Connolly 0H00597p
+274 17.0 21.0 John Connolly 0\005970
+275 17.0 20.0 John CNnnolly 0 005970
+276 17.0 20.0 John Connolly 0\00'970
+277 17.0 21.0 John Connolly 0\005970
+278 18.0 21.0 John Connolly 0|005970
+279 18.0 21.0 John Connolly 0\005970
+280 18.0 21.0 John Connolly 0|005970
+281 18.0 21.0 John Connolly 0\005970
+282 18.0 21.0 John Connolly 0|005970
+283 18.0 21.0 John Connolly 0\005970
+284 18.0 21.0 John Connolly 0|005970
+285 18.0 21.0 John Connolly 0|005970
+286 18.0 21.0 John Connolly 0|005970
+287 18.0 21.0 John Connolly 0l005970
+288 18.0 21.0 John Connolly 0|005970
+289 18.0 21.0 John Connolly 0m005970
+290 18.0 20.0 John Connolly 0D005<70
+291 18.0 21.0 John Connolly 09007970
+292 18.0 20.0 John Connolly 0L00597!
+293 18.0 21.0 John Connolly 0L005970
+294 18.0 21.0 John Connolly 0L005970
+295 18.0 21.0 John Connolly 0 005970
+296 18.0 20.0 John Connolly 0 005=70
+297 18.0 21.0 John Connolly 0 005970
+298 17.0 21.0 John Connolly 0 005970
+299 17.0 21.0 John Connolly 0 005970
+300 17.0 20.0 John Co nolly 0V005970
+301 17.0 20.0 John  onnolly 0 005970
+302 17.0 20.0 John  onnolly 0 005970
+303 17.0 21.0 John Connolly 0 005970
+304 17.0 20.0 Joun Connolly 0 005970
+305 18.0 20.0 John Connolly 0 0$5970
+306 18.0 21.0 John Connolly 0d005970
+307 18.0 20.0 John Co nolly 0P005970
+308 18.0 20.0 John Colnolly 0f005970
+309 18.0 20.0 John Co nolly 0 005970
+310 18.0 20.0 JUhn Connolly 0 005970
+311 18.0 21.0 John Connolly 0@005970
+312 18.0 21.0 John Connolly 0H005970
+313 18.0 21.0 J5hn Connolly 09005970
+314 18.0 21.0 John Connolly 0A005970
+315 18.0 20.0 J5hn Connolly 09005971
+316 18.0 20.0 J=hn Connolly 09005Y70
+317 18.0 20.0 J5hn Connolly 09 05970
+318 18.0 20.0 John Co~nolly 0A005970
+319 18.0 20.0 John  onnolly 0005970
+320 17.0 20.0 John eonnolly 0}005970
+321 17.0 20.0 John C:nnolly 0 005970
+322 17.0 20.0 J%hn ConnollQ 09005970
+323 17.0 20.0 John eonnolly 0005970
+324 17.0 21.0 J,hn Connolly 09005970
+325 17.0 21.0 J,hn Connolly 09005970
+326 17.0 21.0 J,hn Connolly 09005970
+327 17.0 21.0 J,hn Connolly 09005970
+328 17.0 20.0 JWhn Connolly 0^005970
+329 18.0 21.0 J,hn Connolly 09005970
+330 18.0 21.0 J hn Connolly 09005970
+331 18.0 21.0 J$hn Connolly 09005970
+332 18.0 21.0 J$hn Connolly 09005970
+333 18.0 21.0 J,hn Connolly 09005970
+334 18.0 21.0 J$hn Connolly 09005970
+335 18.0 21.0 J4hn Connolly 09005970
+336 18.0 21.0 J,hn Connolly 09005970
+337 18.0 21.0 J,hn Connolly 09005970
+338 18.0 21.0 J$hn Connolly 09005970
+339 18.0 21.0 J&hn Connolly 09005970
+340 18.0 21.0 J hn Connolly 09005970
+341 18.0 21.0 J7hn Connolly 09005970
+342 18.0 21.0 J hn Connolly 09005970
+343 18.0 21.0 J7hn Connolly 09005970
+344 18.0 21.0 J.hn Connolly 09005970
+345 18.0 21.0 J)hn Connolly 09005970
+346 18.0 21.0 J)hn Connolly 09005970
+347 18.0 21.0 J7hn Connolly 09005970
+348 18.0 21.0 J'hn Connolly 09005970
+349 18.0 20.0 J hn Conn/lly 09005970
+350 18.0 20.0 J?hn Connolly309005970
+351 18.0 20.0 J7hn  onnolly 09005970
+352 18.0 20.0 J (n Connolly 09005970
+353 18.0 20.0 J/ln Connolly 09005970
+354 18.0 20.0 J.hn Connolly 090059/0
+355 18.0 21.0 J'hn Connolly 09005970
+356 18.0 21.0 J'hn Connolly 09005970
+357 18.0 20.0 J'hn  onnolly 09005970
+358 18.0 20.0 J hn Connolly 09005`70
+359 18.0 20.0 J hn Connolly 09005a70
+360 18.0 20.0 J%hn connolly 09005970
+361 18.0 21.0 J&hn Connolly 09005970
+362 18.0 20.0 J=`n Connolly 09005970
+363 18.0 20.0 John Cnnolly 0{005970
+364 18.0 20.0 Jehn oonnolly 09005970
+365 18.0 20.0 John C}nnolly 0z005970
+366 18.0 20.0 J'{n Connolly 09005970
+367 18.0 20.0 J$hn Coneolly 09005970
+368 18.0 20.0 J$hn ConnFlly 09005970
+369 18.0 20.0 J&hn ConnoMly 09005970
+370 17.0 21.0 J hn Connolly 09005970
+371 17.0 21.0 J hn Connolly 09005970
+372 17.0 21.0 J&hn Connolly 09005970
+373 18.0 21.0 J.hn Connolly 09005970
+374 18.0 20.0 J hn Connolly 0;005970
+375 18.0 21.0 J hn Connolly 09005970
+376 18.0 21.0 J hn Connolly 09005970
+377 18.0 21.0 J hn Connolly 09005970
+378 18.0 21.0 J hn Connolly 09005970
+379 18.0 21.0 J hn Connolly 09005970
+380 18.0 21.0 J hn Connolly 09005970
+381 18.0 21.0 J hn Connolly 09005970
+382 18.0 21.0 J hn Connolly 09005970
+383 18.0 21.0 JNhn Connolly 09005970
+384 18.0 21.0 JNhn Connolly 09005970
+385 18.0 21.0 Jnhn Connolly 09005970
+386 18.0 21.0 J,hn Connolly 09005970
+387 18.0 21.0 J hn Connolly 09005970
+388 18.0 21.0 J hn Connolly 09005970
+389 18.0 21.0 J$hn Connolly 09005970
+390 18.0 21.0 JIhn Connolly 09005970
+391 18.0 21.0 J hn Connolly 09005970
+392 18.0 21.0 J hn Connolly 09005970
+393 18.0 21.0 Jehn Connolly 09005970
+394 18.0 21.0 J>hn Connolly 09005970
+395 18.0 21.0 J hn Connolly 09005970
+396 18.0 21.0 Jahn Connolly 09005970
+397 18.0 21.0 J hn Connolly 09005970
+398 18.0 21.0 John Connolly 0900]970
+399 18.0 21.0 [ohn Connolly 09005970
+400 18.0 21.0 JNhn Connolly 09005970
+401 18.0 21.0 John Connolly 090i5970
+402 18.0 21.0 Jehn Connolly 09005970
+403 18.0 21.0 JEhn Connolly 09005970
+404 18.0 21.0 JOhn Connolly 09005970
+405 18.0 21.0 Jehn Connolly 09005970
+406 18.0 21.0 JEhn Connolly 09005970
+407 18.0 21.0 JMhn Connolly 09005970
+408 18.0 21.0 JDhn Connolly 09005970
+409 18.0 21.0 Jmhn Connolly 09005970
+410 18.0 21.0 J$hn Connolly 09005970
+411 18.0 21.0 Jfhn Connolly 09005970
+412 18.0 21.0 JMhn Connolly 09005970
+413 18.0 21.0 JOhn Connolly 09005970
+414 18.0 21.0 Jdhn Connolly 09005970
+415 18.0 21.0 John Connolly 09015970
+416 18.0 21.0 J hn Connolly 09005970
+417 18.0 21.0 John Connolly 090 5970
+418 18.0 21.0 JMhn Connolly 09005970
+419 18.0 20.0 Jdhn ConnollY 09005970
+420 18.0 20.0 Jehm Connolly 09005970
+421 18.0 20.0 Jdhn ConnollU 09005970
+422 18.0 20.0 JMhn Connolly 09001970
+423 18.0 20.0 Jdhn Connolly 09 05970
+424 18.0 21.0 JMhn Connolly 09005970
+425 18.0 20.0 JMhN Connolly 09005970
+426 18.0 21.0 JMhn Connolly 09005970
+427 18.0 21.0 JOhn Connolly 09005970
+428 18.0 21.0 JKhn Connolly 09005970
+429 18.0 20.0 JMhN Connolly 09005970
+430 18.0 20.0 John Bonnolly 090 5970
+431 18.0 21.0 J$hn Connolly 09005970
+432 18.0 21.0 John connolly 09005970
+433 18.0 21.0 John aonnolly 09005970
+434 18.0 21.0 JMhn Connolly 09005970
+435 18.0 21.0 John Connolly 090A5970
+436 18.0 21.0 JEhn Connolly 09005970
+437 18.0 21.0 John `onnolly 09005970
+438 18.0 21.0 John aonnolly 09005970
+439 18.0 21.0 JMhn Connolly 09005970
+440 18.0 21.0 John aonnolly 09005970
+441 18.0 21.0 John aonnolly 09005970
+442 18.0 21.0 John ponnolly 09005970
+443 18.0 21.0 John aonnolly 09005970
+444 18.0 20.0 John aonnolly 0900597P
+445 18.0 21.0 John `onnolly 09005970
+446 18.0 20.0 J hn Co$nolly 09005970
+447 18.0 21.0 John bonnolly 09005970
+448 18.0 21.0 John Ponnolly 09005970
+449 18.0 21.0 John )onnolly 09005970
+450 18.0 21.0 John Ponnolly 09005970
+451 18.0 21.0 John konnolly 09005970
+452 18.0 21.0 John konnolly 09005970
+453 18.0 21.0 John oonnolly 09005970
+454 18.0 21.0 John jonnolly 09005970
+455 18.0 21.0 John jonnolly 09005970
+456 18.0 21.0 John konnolly 09005970
+457 18.0 21.0 John jonnolly 09005970
+458 18.0 21.0 John zonnolly 09005970
+459 18.0 21.0 John Connolly 0900597!
+460 18.0 21.0 John jonnolly 09005970
+461 18.0 21.0 John Connolly 0900597!
+462 18.0 21.0 John Monnolly 09005970
+463 18.0 21.0 John Monnolly 09005970
+464 18.0 21.0 John Connolly 0900597#
+465 18.0 21.0 John Connolly 0900597#
+466 18.0 21.0 John Connolly 0900597&
+467 18.0 21.0 John Connolly 0900597w
+468 18.0 21.0 John Connolly 0900597w
+469 18.0 21.0 John Connolly 0900597w
+470 18.0 21.0 John ]onnolly 09005970
+471 18.0 20.0 John Connolly 090!597&
+472 18.0 21.0 John ionnolly 09005970
+473 18.0 20.0 Joln Connolly 0900597&
+474 18.0 21.0 John ]onnolly 09005970
+475 18.0 20.0 John Connolly 09005 7e
+476 18.0 21.0 John Connolly 0900597$
+477 18.0 20.0 John Connolly 090`597 
+478 18.0 21.0 John Connolly 0900597 
+479 18.0 20.0 Jhn Connolly 09005976
+480 18.0 21.0 John Connolly 0900597 
+481 18.0 20.0 John Connlly 0900597 
+482 18.0 20.0 John Connol\y 0900597 
+483 18.0 20.0 John Cofnolly 0900597 
+484 18.0 20.0 John _onnoTly 09005970
+485 18.0 20.0 John Co&nolly 0900597 
+486 18.0 20.0 John Connolly 09005y7 
+487 18.0 20.0 JoIn  onnolly 09005970
+488 18.0 20.0 JoHn Ionnolly 09005970
+489 18.0 21.0 John Connolly 0900597 
+490 18.0 20.0 JoHn Ionnolly 09005970
+491 17.0 20.0 JoJn Aonnolly 09005970
+492 17.0 20.0 John Connolly 09005 7 
+493 17.0 20.0 John Connolly 09005Y7 
+494 17.0 20.0 John Connolly 0500597 
+495 17.0 20.0 John Connolly 09$0597 
+496 17.0 20.0 John Connolly 09|0597 
+497 17.0 20.0 John ConnollY 0900597 
+498 18.0 20.0 John Connolly 09%0597 
+499 18.0 20.0 John Connolly 09005S7 
+500 18.0 20.0 John Connolly 09%0597 
+501 18.0 21.0 John Connolly 0900597 
+502 17.0 21.0 John Connolly 0900597 
+503 17.0 20.0 John Connolly 0900U97$
+504 17.0 20.0 John Co>nolly 0900597 
+505 18.0 20.0 John Connolly 0940597 
+506 18.0 20.0 John Connolly 0900U97$
+507 18.0 20.0 John Connolly 09 0u970
+508 17.0 20.0 John Connoll} 0900]970
+509 17.0 20.0 John Connolly 09p0U970
+510 17.0 20.0 John Connolly 0908597 
+511 17.0 20.0 John Connomly 0900U970
+512 17.0 21.0 John Connolly 0900U970
+513 17.0 20.0 John Conno-ly 0900E970
+514 18.0 20.0 John Connomly 0900u970
+515 18.0 20.0 John Connolly 09085978
+516 18.0 21.0 John Connolly 09005978
+517 18.0 22.0 John Connolly 09005970
