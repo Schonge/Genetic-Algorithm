@@ -14,7 +14,7 @@ package com.jconnolly.geneticAlgorithm;
 import java.util.Random;
 import java.io.*;
 
-public class NewGeneticAlgorithm {
+public class GeneticAlgorithm {
 	
 	private static String id = "John Connolly 09005970";
 	
@@ -29,7 +29,7 @@ public class NewGeneticAlgorithm {
 		int seed = 9005970 ;
 		Random rand = new Random(seed) ;
 		
-		NewGeneticAlgorithm genAlg = new NewGeneticAlgorithm();
+		GeneticAlgorithm genAlg = new GeneticAlgorithm();
 		
 		if(args.length != 6) {
 			System.err.println("Invalid number of arguments!");
